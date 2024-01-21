@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyrtoq
 - 👀 I like container platforms, automation and Bitcoin
-- 🌱 I’m currently learning... lots of things
+- 🌱 I’m currently learning... lots of things. Rust among them
 - 📫 How to reach me: mailto:sha256@vyrtoq.xyz
 
 <!---
